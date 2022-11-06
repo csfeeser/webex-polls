@@ -27,3 +27,18 @@ Each directory should contain the following:
 
         3. Welcome back to training! Do you have any questions, requests, or issues to share?
 
+### How to open polls in Webex
+
+1. Download the ATP files to your computer, perhaps your `Documents` directory.
+
+0. Click the three dots `...` in the bottom right of your WebEx window.
+
+    <img src="https://raw.githubusercontent.com/csfeeser/webex-polls/main/images/poll1.png" width="600"/>
+
+0. Click the `Polling` button.
+
+    <img src="https://raw.githubusercontent.com/csfeeser/webex-polls/main/images/poll2.png" width="200"/>
+
+0. Click the `open poll` button then find the `.atp` file you downloaded for the appropriate course date.
+
+    <img src="https://raw.githubusercontent.com/csfeeser/webex-polls/main/images/poll3.png" width="600"/>
