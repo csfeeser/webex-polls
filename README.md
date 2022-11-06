@@ -4,8 +4,8 @@ If polls exist for a course, you'll find the course name above.
 
 Each directory should contain the following:  
 
-- One `.atp` file for each day of class. Day 1 is "get to know you" questions, subsequent days are quiz questions on the previous day's content
-- Many questions are based on code which must be displayed on the instructor's screen- these are the `.txt` files in the course directory. Just display those questions in a notepad file on your screen, then "freeze" your WebEx screenshare while student's work on the survey.
+- One `.atp` file for each day of class. Day 1 is "get to know you" questions, subsequent days are quiz questions on the previous day's content.
+- Many questions are based on code which must be displayed on the instructor's screen- these are the `.txt` files in the course directory. Just display those questions in a notepad file on your screen, then "freeze" your WebEx screenshare while students work on the survey.
 - Each survey ends with the following three questions:
     
         1. How was the pace of class yesterday?
