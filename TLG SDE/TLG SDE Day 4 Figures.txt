@@ -1,0 +1,22 @@
+FIGURE 1.
+
+demo= [
+       {"a":"letter"},
+       {"b":"letter"}
+      ]
+
+for x in demo:
+    print(x, end=" ")
+
+=====================================
+FIGURE 2.
+
+y= open("newfile.txt")
+print(y.read())
+
+=====================================
+FIGURE 3.
+
+with open("otherfile.txt") as zoink:
+    for x in zoink:
+        print(x)

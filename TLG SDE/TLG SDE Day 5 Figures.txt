@@ -1,0 +1,35 @@
+FIGURE 1.
+
+import requests
+
+resp= requests.get(ABC)
+
+data= resp.XYZ()
+
+=====================================
+FIGURE 2.
+
+move= input("What do you do next?")
+
+# example answer might be GO EAST
+
+move= move.lower().strip().split()
+
+=====================================
+FIGURE 3.
+
+currentRoom= "Bathroom"
+
+rooms= {
+       "Kitchen": {
+         "west": "Garage",
+         "item": "cookie"
+       },
+       "Garage": {
+         "east": "Kitchen",
+         "item": "chainsaw"
+       }}
+
+if "chainsaw" in rooms[currentRoom]["item"]:
+    print("Found the chainsaw! VROOOM"
+
