@@ -50,3 +50,11 @@ Each directory should contain the following:
 **STEP 2** Click the "Download" button in the upper left corner to save the results as a file. Upload this file to your class's Google Drive folder and you're done!
 
 <img src="https://raw.githubusercontent.com/csfeeser/webex-polls/main/images/poll-last.png" width="600"/>
+
+## OH NO, I CLOSED THE POLLING WINDOW!!! I lost my poll results!
+
+- It's ok! Click the "Polling" button to re-open the window. You should still be able to download the results.
+
+## OH NO, I CLOSED MY POLL THEN OPENED A NEW ONE!!! I lost my poll results!
+
+- Unfortunately yes, you definitely did lose those poll results 😬
