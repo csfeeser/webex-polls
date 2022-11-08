@@ -42,3 +42,11 @@ Each directory should contain the following:
 0. Click the `open poll` button then find the `.atp` file you downloaded for the appropriate course date.
 
     <img src="https://raw.githubusercontent.com/csfeeser/webex-polls/main/images/poll3.png" width="600"/>
+
+### How to save poll results
+
+**STEP 1** Click the "Close Poll" button when everyone is done.
+
+**STEP 2** Click the "Download" button in the upper left corner to save the results as a file. Upload this file to your class's Google Drive folder and you're done!
+
+<img src="https://raw.githubusercontent.com/csfeeser/webex-polls/main/images/poll-last.png" width="600"/>
