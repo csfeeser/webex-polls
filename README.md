@@ -51,7 +51,7 @@ Each directory should contain the following:
 
 <img src="https://raw.githubusercontent.com/csfeeser/webex-polls/main/images/poll-last.png" width="600"/>
 
-**STEP 3** Go to your class's Google Drive folder. Click the `+` in the upper left. Select `Upload file`, choose the poll results file you made previously, upload, and you're done!
+**STEP 3** Go to your class's Google Drive folder. Click the `+` in the upper left. Select `File Upload`, choose the poll results file you made previously, upload, and you're done!
 
 <img src="https://raw.githubusercontent.com/csfeeser/webex-polls/main/images/drive.png" width="600"/>
 
